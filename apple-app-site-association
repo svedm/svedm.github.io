@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "T55G7JLVK5.com.orbitum.thrive.app.test",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
