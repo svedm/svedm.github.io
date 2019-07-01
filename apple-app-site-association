@@ -7,6 +7,12 @@
         "paths": [
           "*"
         ]
+      },
+      {
+        "appID": "T55G7JLVK5.com.orbitum.thrive.app",
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
