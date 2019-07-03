@@ -26,6 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+[Login](thrive://thrive/signIn/completed?embed=true&u=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJDbGllbnRzOjMyOTU4OCIsImNsaWVudHMiOnsiaWRzIjpbMzI5NTg4XX0sImlhdCI6MTU2MjEzODYzOSwiaXNzIjoidmV0c3BpcmUiLCJqdGkiOiI0MGU1ZGIxZS1jMjNmLTRjMWItOTQyNC1jMmFjNjAxOTZkYzEiLCJwZW0iOnt9LCJzdWIiOiJDbGllbnRzOjMyOTU4OCIsInR5cCI6InRva2VuIn0.5mCEc0oRQEmim3BW9dXP4oIphh2_ElUFhJ0ZRV0nfwCr6-zAGnLRJRCKg2songq_3PeBIaProvHNiwAml3cUsA)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
