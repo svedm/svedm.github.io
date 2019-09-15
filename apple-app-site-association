@@ -3,13 +3,13 @@
     "apps": [],
     "details": [
       {
-        "appID": "T55G7JLVK5.com.orbitum.thrive.app.test",
+        "appID": "PRS7ACU4M2.com.thrivevet.app",
         "paths": [
           "*"
         ]
       },
       {
-        "appID": "T55G7JLVK5.com.orbitum.thrive.app",
+        "appID": "PRS7ACU4M2.com.thrivevet.app.test",
         "paths": [
           "*"
         ]
